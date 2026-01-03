@@ -77,7 +77,6 @@ source .venv/bin/activate
 3. Installer les dépendances (backend + frontend)
 ```bash
 pip install -r backend/requirements.txt
-pip install streamlit requests
 ```
 
 ---
